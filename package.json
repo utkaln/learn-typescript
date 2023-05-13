@@ -1,0 +1,26 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "### Install `npm install -g typescript`",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkaln/learn-typescript.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "Utkal Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkaln/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/utkaln/learn-typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
