@@ -99,4 +99,8 @@ type User = 'abc' | 'some name' | 'another allowed name';
 // OR
 let User: 'abc' | 'some name' | 'another allowed name';
 ```
-- 
+
+### Generic Types
+- Add generic type and custom generic type to defer the types of variable for declaring later
+
+
